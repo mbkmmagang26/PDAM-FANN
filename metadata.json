@@ -1,0 +1,5 @@
+{
+  "name": "PDAM Accounting Information System",
+  "description": "A comprehensive prototype for PDAM's Accounting Information System featuring journals, general ledger, financial statements, inventory, and customer management with interactive UI and animations.",
+  "requestFramePermissions": []
+}
